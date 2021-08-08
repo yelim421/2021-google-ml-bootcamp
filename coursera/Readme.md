@@ -3,7 +3,7 @@
 ### 1st course: Neural Networks and Deep Learning
 - WEEK1 (8/6~8/16) 
 
- - [ ] Introduction to deep learning
+ - [x] Introduction to deep learning
  
     
  - [ ] Neural Networks Basics
