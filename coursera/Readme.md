@@ -3,7 +3,7 @@
 ### 1st course: Neural Networks and Deep Learning
 - WEEK1 (8/6~8/16) 
 
- - [x] Introduction to deep learning
+ - [x]  [Introduction to deep learning](https://github.com/yelim421/2021-google-ml-bootcamp/blob/e18c9405a3981593bfd20fd29f45478ed40fa57b/coursera/01Neural%20Networks%20and%20Deep%20Learning(week1)/NOTES)
  
     
  - [ ] Neural Networks Basics
