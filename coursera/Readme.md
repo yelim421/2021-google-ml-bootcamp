@@ -4,11 +4,13 @@
 - WEEK1 (8/6~8/16) 
 
  - [x]  [Introduction to deep learning](https://github.com/yelim421/2021-google-ml-bootcamp/blob/7564bc6cd6593e2761953f840d9813f7b87a3863/coursera/01Neural%20Networks%20and%20Deep%20Learning(week1)/Readme.md)
- 
-    
- - [ ] Neural Networks Basics
+ - [x]  [Neural Networks Basics](https://github.com/yelim421/2021-google-ml-bootcamp/blob/7564bc6cd6593e2761953f840d9813f7b87a3863/coursera/02Neural%Networks%Basics(Week1)/Readme.md)
 
 - WEEK2 (8/16~8/23)
+
+ - [ ] Shallow Neural Networks
+ - [ ] Deep Neural Networks
+
 
 ### 2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - WEEK3 (8/23~8/30)
