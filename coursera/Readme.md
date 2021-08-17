@@ -4,7 +4,7 @@
 - WEEK1 (8/6~8/16) 
 
  - [x]  [Introduction to deep learning](https://github.com/yelim421/2021-google-ml-bootcamp/blob/7564bc6cd6593e2761953f840d9813f7b87a3863/coursera/01Neural%20Networks%20and%20Deep%20Learning(week1)/Readme.md)
- - [x]  [Neural Networks Basics](https://github.com/yelim421/2021-google-ml-bootcamp/blob/7564bc6cd6593e2761953f840d9813f7b87a3863/coursera/02Neural%Networks%Basics(Week1)/Readme.md)
+ - [x]  [Neural Networks Basics](https://github.com/yelim421/2021-google-ml-bootcamp/blob/77caa4586a2c50e4a9a5a778dea288fee85975c7/coursera/02Neural%20Networks%20Basics(Week1)/Readme.md)
 
 - WEEK2 (8/16~8/23)
 
