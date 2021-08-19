@@ -11,7 +11,7 @@
 
  - [x] [Shallow Neural Networks](https://github.com/yelim421/2021-google-ml-bootcamp/blob/34cbf57ef6de85120090d4f42b02be79ccd4fabf/coursera/03Shallow%20Neural%20Network(Week2)/Readme.md)
       - Programming Assignment: [Planar data classification with one hidden layer](https://velog.io/@yelim421/Planar-data-classification-with-one-hidden-layer)
- - [ ] Deep Neural Networks
+ - [x] [Deep Neural Networks](https://github.com/yelim421/2021-google-ml-bootcamp/blob/b0e6743da6f47cee4a0e6a9725350a2a7449367d/coursera/04Deep%20Neural%20Network(Week2)/Readme.md)
 
 
 ### 2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
