@@ -10,6 +10,7 @@
 - WEEK2 (8/16~8/23)
 
  - [x] [Shallow Neural Networks](https://github.com/yelim421/2021-google-ml-bootcamp/blob/34cbf57ef6de85120090d4f42b02be79ccd4fabf/coursera/03Shallow%20Neural%20Network(Week2)/Readme.md)
+      - Programming Assignment: [Planar data classification with one hidden layer](https://velog.io/@yelim421/Planar-data-classification-with-one-hidden-layer)
  - [ ] Deep Neural Networks
 
 
