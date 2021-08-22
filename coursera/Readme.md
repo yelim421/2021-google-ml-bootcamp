@@ -18,16 +18,36 @@
 ### 2nd course: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - WEEK3 (8/23~8/30)
 
+ - [x] [Practical Aspects of Deep Learning]
+
 - WEEK4 (8/30~9/6)
+
+ - [ ] Optimization algorithms
+ - [ ] Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 ### 3rd course: Structuring Machine Learning Projects
 - WEEK5 (9/6~9/13)
 
+ - [ ] ML Strategy (1)
+ - [ ] ML Strategy (2)
+
 ### 4th course: Convolutional Neural Networks
+ - [ ] Foundations of Convolutional Neural Networks
+ 
 - WEEK6 (9/13~9/20)
 
+ - [ ] Deep convolutional models : case studies
+ - [ ] Object detection
+ 
 - WEEK7 (9/20~9/27)
+ - [ ] Special applications : Face recognition & Neural style transfer
+
 
 ### 5th course: Sequence Models
 
+ - [ ] Recurrent Neural Networks
+
 - WEEK8 (9/27~10/4)
+
+ - [ ] Natural Language Processing & Word Embeddings
+ - [ ] Sequence models & Attention mechanism
