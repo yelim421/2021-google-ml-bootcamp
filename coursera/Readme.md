@@ -19,7 +19,7 @@
 - WEEK3 (8/23~8/30)
 
  - [x] [Practical Aspects of Deep Learning](https://github.com/yelim421/2021-google-ml-bootcamp/blob/4836f4b8c131ac74e5df62ad1f1ce294e903bef6/coursera/05Practical%20Aspects%20of%20Deep%20Learning(Week3)/Readme.md)
-      - Programming Assignment: [Initialization](https://velog.io/@yelim421/Initialization-with-bluered-dots-in-circles-dataset) & [Regularization](https://velog.io/@yelim421/RegularizationL2-Regularization-Dropout) & Gradient Checking
+      - Programming Assignment: [Initialization](https://velog.io/@yelim421/Initialization-with-bluered-dots-in-circles-dataset) & [Regularization](https://velog.io/@yelim421/RegularizationL2-Regularization-Dropout) & [Gradient Checking](https://velog.io/@yelim421/Gradient-Checking)
 
 - WEEK4 (8/30~9/6)
 
