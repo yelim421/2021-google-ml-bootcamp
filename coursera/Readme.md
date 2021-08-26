@@ -23,7 +23,8 @@
 
 - WEEK4 (8/30~9/6)
 
- - [ ] Optimization algorithms
+ - [ ] [Optimization algorithms](https://github.com/yelim421/2021-google-ml-bootcamp/blob/2e421e25f1f873e5e71b88bb5f2b7e9aad0f39d4/coursera/06Optimization%20Algorithms(Week4)/Readme.md)
+      - Programming Assignment: Optimization Methods
  - [ ] Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 ### 3rd course: Structuring Machine Learning Projects
