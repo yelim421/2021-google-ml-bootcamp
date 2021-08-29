@@ -26,6 +26,7 @@
  - [ ] [Optimization algorithms](https://github.com/yelim421/2021-google-ml-bootcamp/blob/2e421e25f1f873e5e71b88bb5f2b7e9aad0f39d4/coursera/06Optimization%20Algorithms(Week4)/Readme.md)
       - Programming Assignment: [Optimization Methods](https://velog.io/@yelim421/Optimization-Methods)
  - [ ] [Hyperparameter tuning, Batch Normalization and Programming Frameworks](https://github.com/yelim421/2021-google-ml-bootcamp/blob/f0a6846ed5b2713463f55365bf87669943e23375/coursera/07Hyperparameter%20tuning,%20Batch%20Normalization%20and%20Programming%20Frameworks(Week4)/Readme.md)
+      - Programming Assignment: Tensorflow Introduction
 
 ### 3rd course: Structuring Machine Learning Projects
 - WEEK5 (9/6~9/13)
