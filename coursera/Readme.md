@@ -31,7 +31,7 @@
 ### 3rd course: Structuring Machine Learning Projects
 - WEEK5 (9/6~9/13)
 
- - [ ] ML Strategy (1)
+ - [x] [ML Strategy (1)](https://github.com/yelim421/2021-google-ml-bootcamp/blob/2ba140aff4a43725790839f7fd0f506e63497702/coursera/08ML%20Strategy(1)(Week%205)/Readme.md)
  - [ ] ML Strategy (2)
 
 ### 4th course: Convolutional Neural Networks
