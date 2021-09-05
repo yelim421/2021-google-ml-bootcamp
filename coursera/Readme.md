@@ -32,7 +32,7 @@
 - WEEK5 (9/6~9/13)
 
  - [x] [ML Strategy (1)](https://github.com/yelim421/2021-google-ml-bootcamp/blob/2ba140aff4a43725790839f7fd0f506e63497702/coursera/08ML%20Strategy(1)(Week%205)/Readme.md)
- - [ ] ML Strategy (2)
+ - [x] [ML Strategy (2)](https://github.com/yelim421/2021-google-ml-bootcamp/blob/ccee066439fdb08255f06658b9e00844fbebcc75/coursera/09ML%20Strategy(2)(Week5)/Readme.md)
 
 ### 4th course: Convolutional Neural Networks
  - [ ] Foundations of Convolutional Neural Networks
