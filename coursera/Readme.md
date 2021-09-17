@@ -40,7 +40,7 @@
  
 - WEEK6 (9/13~9/20)
 
- - [ ] Deep convolutional models : case studies
+ - [ ] [Deep convolutional models : case studies](https://github.com/yelim421/2021-google-ml-bootcamp/blob/1242c91d7c6d937b200e316c18b285238bd75456/coursera/11Deep%20convolutional%20models%20:%20case%20studies(Week%206)/Readme.md)
  - [ ] Object detection
  
 - WEEK7 (9/20~9/27)
