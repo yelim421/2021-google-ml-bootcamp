@@ -49,7 +49,8 @@
 
 ### 5th course: Sequence Models
 
- - [ ] Recurrent Neural Networks
+ - [x] [Recurrent Neural Networks](https://github.com/yelim421/2021-google-ml-bootcamp/blob/ab5ec1c8a3cee837c95fd2a129e6ff49ab2630a5/coursera/14Recurrent%20Neural%20Networks(Week%207)/Readme.md)
+      - Programming Assignment: Building your Recurrent Neural Network - Step by Step & Dinosaur Island-Character-Level Language Modeling & Jazz Improvisation with LSTM
 
 - WEEK8 (9/27~10/4)
 
